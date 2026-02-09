@@ -10,7 +10,7 @@ In this lesson you will add a **search feature** to the CRUD app you built in Le
 
 ## What You Start With (Starter Code)
 
-This folder already includes the Lesson 07 baseline so you can focus on **search**:
+If you choose to start from the provided starter (Option B in Step 0), it already includes the Lesson 07 baseline so you can focus on **search**:
 
 - React client with an **insert form**: `/workspaces/c2c-full-stack-102/lesson-08/starter/app/client`
 - Express server with a **MySQL connection + insert route**: `/workspaces/c2c-full-stack-102/lesson-08/starter/app/server`
@@ -54,7 +54,7 @@ CREATE TABLE IF NOT EXISTS customers (
 
 Before you start coding, create the working folder for this lesson by copying an `app/` directory into `lesson-08/app`.
 
-Option A (preferred): copy **your completed app from the prior lesson**:
+Option A: copy **your completed app from the prior lesson**:
 
 ```bash
 cp -r /workspaces/c2c-full-stack-102/lesson-07/app /workspaces/c2c-full-stack-102/lesson-08/app
